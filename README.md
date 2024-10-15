@@ -4,7 +4,7 @@ The study examined the Impact of Naira Devaluation and Inflation on the Nigerian
 ## RESEARCH AIMS AND OBJECTIVES
 The specific objectives of the study are: <br>
 <ol type="i">
-    To identify the causes of naira devaluation. <br>
+    <li>To identify the causes of naira devaluation.</li> <br>
     To identify the impact of the naira devaluation on the Nigerian economy. <br>
     To identify the impact of Inflation on the Nigerian economy. <br>
     To suggest solutions for Nigeria’s economic growth to policymakers. <br>
